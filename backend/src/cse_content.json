@@ -1,0 +1,26 @@
+[
+    {
+        "id": "programming",
+        "title": "Programming Basics",
+        "summary": "Programming in Computer Science is the process of writing instructions for a computer to perform specific tasks. It involves understanding syntax, logic, variables, control flow, and debugging.",
+        "sample_question": "What is a programming language and why do we use it in Computer Science and Engineering?"
+    },
+    {
+        "id": "ds",
+        "title": "Data Structures",
+        "summary": "Data Structures are organized ways to store and manage data so that operations like searching, insertion, and deletion become efficient. Common examples include arrays, linked lists, stacks, queues, and trees.",
+        "sample_question": "What is a data structure, and can you explain the difference between an array and a linked list?"
+    },
+    {
+        "id": "os",
+        "title": "Operating Systems",
+        "summary": "An Operating System (OS) is system software that manages computer hardware and software resources. It provides services like process management, memory management, file systems, and input/output control.",
+        "sample_question": "Why is an Operating System important, and what is the role of process management?"
+    },
+    {
+        "id": "dbms",
+        "title": "Database Management Systems",
+        "summary": "A Database Management System (DBMS) is software that helps store, retrieve, and manage data in databases. It ensures data consistency, security, and supports query languages like SQL.",
+        "sample_question": "What is a DBMS, and how is it different from a traditional file system?"
+    }
+]
