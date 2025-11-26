@@ -1,0 +1,96 @@
+[
+    {
+        "id": "what_is_razorpay",
+        "question": "What does Razorpay do?",
+        "answer": "Razorpay is a payments and business banking platform. It allows you to accept online payments via cards, UPI, netbanking, and wallets, and also offers tools for payouts, subscriptions, invoices, and working capital for Indian businesses.",
+        "tags": [
+            "product",
+            "overview",
+            "what",
+            "payments"
+        ],
+        "category": "general"
+    },
+    {
+        "id": "who_is_it_for",
+        "question": "Who is Razorpay for?",
+        "answer": "Razorpay is designed for Indian businesses of all sizes: startups, SMEs, enterprises, e-commerce stores, SaaS products, NGOs, and even freelancers and professionals who want to accept payments online in India.",
+        "tags": [
+            "target",
+            "customer",
+            "who",
+            "businesses"
+        ],
+        "category": "general"
+    },
+    {
+        "id": "pricing_basic",
+        "question": "How does Razorpay pricing work?",
+        "answer": "For the standard payment gateway plan, there is no setup fee and no maintenance fee. You pay a per-transaction fee (commonly around 2% for domestic payments on the standard plan). For large volumes, Razorpay offers custom enterprise pricing after you talk to their sales team.",
+        "tags": [
+            "pricing",
+            "charges",
+            "cost",
+            "fees"
+        ],
+        "category": "pricing"
+    },
+    {
+        "id": "free_tier",
+        "question": "Do you have a free tier?",
+        "answer": "There is no separate free subscription tier, but there are no setup or maintenance fees for the standard payment gateway. You can also use Razorpay’s sandbox environment to test payments for free before going live.",
+        "tags": [
+            "pricing",
+            "free",
+            "trial",
+            "sandbox"
+        ],
+        "category": "pricing"
+    },
+    {
+        "id": "payment_modes",
+        "question": "What payment methods does Razorpay support?",
+        "answer": "Razorpay supports credit cards, debit cards, netbanking, UPI, and multiple wallets. It also offers support for international cards and multi-currency payments for eligible businesses.",
+        "tags": [
+            "methods",
+            "modes",
+            "upi",
+            "cards",
+            "netbanking"
+        ],
+        "category": "features"
+    },
+    {
+        "id": "international",
+        "question": "Does Razorpay support international payments?",
+        "answer": "Yes, Razorpay supports international card payments and can accept payments in many foreign currencies, subject to eligibility and compliance. Businesses can enable international payments by working with the Razorpay team.",
+        "tags": [
+            "international",
+            "currency",
+            "global"
+        ],
+        "category": "features"
+    },
+    {
+        "id": "security",
+        "question": "Is Razorpay secure?",
+        "answer": "Razorpay follows industry-standard security practices such as PCI-DSS Level 1 compliance and other certifications to help keep payment data secure.",
+        "tags": [
+            "security",
+            "pci",
+            "safe"
+        ],
+        "category": "trust"
+    },
+    {
+        "id": "support",
+        "question": "What kind of support does Razorpay provide?",
+        "answer": "Razorpay provides documentation, dashboards, and support channels for merchants. Larger customers can get dedicated account management and priority support depending on the plan.",
+        "tags": [
+            "support",
+            "help",
+            "contact"
+        ],
+        "category": "general"
+    }
+]
